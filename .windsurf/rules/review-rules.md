@@ -9,7 +9,7 @@ description: Configuración de repositorios y stack tecnológico para revisión 
 
 | Capa       | Tecnología                        | Convenciones               |
 |------------|-----------------------------------|----------------------------|
-| Backend    | Java 21+, Spring                  | Maven, paquetes por capa   |
+| Backend    | Java 21+, Spring Framework        | Maven, paquetes por capa   |
 | Frontend   | JSP, JSTL, jQuery 3.x, CSS3      | Carpetas por tipo          |
 | VCS        | GitHub                            | PR por feature, main base  |
 

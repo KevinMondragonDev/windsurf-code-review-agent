@@ -47,7 +47,7 @@ y las buenas prácticas de desarrollo antes de que un PR sea integrado.
 ## Stack Tecnológico
 | Capa       | Tecnología                   |
 |------------|------------------------------|
-| Backend    | Java, Spring MVC             |
+| Backend    | Java, Spring Framework       |
 | Frontend   | JSP, jQuery, JavaScript, CSS |
 | VCS        | GitHub                       |
 | CLI        | GitHub CLI (`gh`)            |
