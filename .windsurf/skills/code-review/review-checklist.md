@@ -166,7 +166,7 @@ Todo archivo estático (CSS/JS) referenciado en JSP **debe incluir versionado**.
 | 5  | No exponer stack traces al usuario final                        | 🟡 Importante  |
 | 6  | Validar permisos/roles en endpoints sensibles                   | 🟡 Importante  |
 
-### 3.3 Estructura Spring Boot
+### 3.3 Estructura Spring MVC
 
 ```
 src/main/java/com/proyecto/

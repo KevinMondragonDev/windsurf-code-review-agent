@@ -156,7 +156,7 @@ Un **kit de configuración listo para usar** que convierte a Windsurf en un revi
 
 | Capa       | Tecnología                  |
 |------------|-----------------------------|
-| Backend    | Java 21+, Spring Boot       |
+| Backend    | Java 21+, Spring MVC        |
 | Frontend   | JSP, JSTL, jQuery 3.x, CSS3|
 | VCS        | GitHub                      |
 
